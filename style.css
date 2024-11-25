@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+h1{
+    color: brown;
+    text-align: center;
+    font-size: 80px;
+}
+p{
+    color:blueviolet;
+    text-align: center;
+    font-size: 50px;
+}
+img{
+    width: 480px;
+    margin-left: 880px;
+}
